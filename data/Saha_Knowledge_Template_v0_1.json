@@ -1,0 +1,181 @@
+{
+  "schema_version": "0.1",
+  "template_id": "saha_disease_caregiving_template",
+  "template_version": 1,
+  "label": "Proposed caregiving knowledge template — for discussion",
+  "design_status": "proposed_not_clinically_validated",
+  "demo_only": true,
+  "condition_example": "COPD",
+  "intended_audience": "Internal clinician/product review meeting",
+  "clinical_use_status": "not_released",
+  "design_basis": {
+    "source": "User-provided Saha team meeting, latest update",
+    "passage": "14:30–16:25: proposed disease template with 15–20 dimensions, reviewed with Siddharth",
+    "note": "The exact dimensions are assistant-proposed implementation choices, not a verbatim or approved medical framework."
+  },
+  "dimensions": [
+    {
+      "id": "D01",
+      "title": "Condition scope and applicability",
+      "purpose_question": "What condition, care setting, and limits does this module cover?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D02",
+      "title": "Elder priorities and usual function",
+      "purpose_question": "What matters to this elder, and what assistance is normally needed?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D03",
+      "title": "Onboarding questions and missing context",
+      "purpose_question": "What information should be collected before selecting care guidance?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D04",
+      "title": "Existing clinician instructions and restrictions",
+      "purpose_question": "Which patient-specific instructions already exist, and what remains unconfirmed?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D05",
+      "title": "Routine caregiving do's",
+      "purpose_question": "Which daily support activities may be relevant, subject to individual applicability?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D06",
+      "title": "Don'ts and precautions",
+      "purpose_question": "What should not be done or assumed, and under which circumstances?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D07",
+      "title": "Mobility, ambulation, and transfers",
+      "purpose_question": "What assistance, restrictions, or instructions need to be understood?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D08",
+      "title": "Bathing, personal hygiene, and oral care",
+      "purpose_question": "What preferences, assistance needs, and existing care instructions are relevant?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D09",
+      "title": "Comfort, posture, rest, and sleep",
+      "purpose_question": "What preferences or clinician-supplied instructions should be captured?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D10",
+      "title": "Meals, nutrition, and hydration",
+      "purpose_question": "What assistance needs and documented restrictions must be considered?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D11",
+      "title": "Toileting, continence, and skin care",
+      "purpose_question": "What support needs or existing plans should be captured without inventing treatment?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D12",
+      "title": "Home environment and equipment",
+      "purpose_question": "What equipment, environmental context, and training requirements matter?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D13",
+      "title": "Prescribed treatment support and adherence",
+      "purpose_question": "What existing schedule or instructions should be referenced, and who may perform the task?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D14",
+      "title": "Caregiver-observable changes",
+      "purpose_question": "What changes from the person's usual situation can be reported without diagnosis?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D15",
+      "title": "Prescribed monitoring and patient-specific limits",
+      "purpose_question": "What measurements, frequencies, and action instructions have actually been supplied?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D16",
+      "title": "Brief contextual follow-up questions",
+      "purpose_question": "What minimal additional information would make an observation more useful?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D17",
+      "title": "Escalation contacts and handover",
+      "purpose_question": "Who handles operational and clinical issues, and what information should be passed on?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D18",
+      "title": "Caregiver capability and task burden",
+      "purpose_question": "What training, authorisation, language support, and workload must be considered?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D19",
+      "title": "Daily documentation and communication",
+      "purpose_question": "How are task status, observations, unresolved questions, and handovers recorded?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    },
+    {
+      "id": "D20",
+      "title": "Practical care tips and family education",
+      "purpose_question": "What relevant additional support could be surfaced without overwhelming people?",
+      "inclusion_decision": "to_discuss",
+      "reviewer_comment": "",
+      "knowledge_record_ids": []
+    }
+  ],
+  "knowledge_records": [],
+  "medical_references": [],
+  "review_decisions": []
+}
